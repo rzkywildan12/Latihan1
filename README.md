@@ -1,4 +1,4 @@
-#1.PENGENALAN PROGRAM
+# 📌1. PENGENALAN PROGRAM
 <br>Kode ini adalah implementasi kalkulator sederhana<br /> 
 menggunakan **kelas (class) dalam C++**
 <BR>Program ini mendukung operasi dasar :<br />
@@ -7,7 +7,11 @@ menggunakan **kelas (class) dalam C++**
 <br>✅**Perkalian (*)**<br />
 ✅**Pembagian (/)**
 
-**📌2. STRUKTUR KODE**
+# 📌2. STRUKTUR KODE
 <br> kode ini terdiri dari dua bagian utama :<br />
 1. **Kelas Calculator :** Berisi metode perhitungan
 2. **Fungsi main() :** Mengambil input pengguna dan mengontrol logika program
+
+# 📌3. Bagian-bagian kode
+🔷 **a) Header File (3include <iostream>)**
+#include <iostream>
