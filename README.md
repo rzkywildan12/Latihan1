@@ -47,5 +47,11 @@ int main () {
     double num1 = 10, num2 = 5;
 
     std : :cout << "Addition: " << calc.add(num1, num2) << std : : end1;
+    std : :cout << "Subtraction: " << calc.subtract(num1, num2) << std : : end1;
+    std : :cout << "Multiplication: " << calc.multiply(num1, num2) << std : : end1;
+    std : :cout << "Division: " << calc.divide(num1, num2) << std : : end1;
+
+    reutrn 0;
+}
 
 
